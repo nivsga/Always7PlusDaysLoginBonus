@@ -1,3 +1,3 @@
 This mod changes the process of the Login Bonus to give you always the one for 7+ days even if you didn't play the day before. 
 
-Compatibility: If you want to use this mod and ShoppingAppAfterFirstOrder at the same time, you'll have to download the newest release here.
+**Note:** For compatibility with [Shopping App After First Order](https://github.com/nivsga/ShoppingAppAfterFirstOrder) you need [this](https://github.com/nivsga/ShoppingAppAfterFirstOrderXAlways7PlusDaysLoginBonus) version.
